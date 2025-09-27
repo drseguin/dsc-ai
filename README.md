@@ -25,13 +25,22 @@ If you click "Deploy to Netlify" button, it will create a new repo for you that 
 
 The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
 
-Run the Next.js development server:
+### Quick Start
+Run the development server using the provided script:
 
 ```txt
-cd content-ops-starter
+./start.sh
+```
+
+This script will automatically install dependencies if needed and start the Next.js development server.
+
+Alternatively, run the Next.js development server manually:
+
+```txt
 npm run dev
 ```
 
+### Visual Editor Setup
 Install the [Netlify Visual Editor CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
 
 ```txt

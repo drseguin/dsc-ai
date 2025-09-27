@@ -10,7 +10,7 @@
                 "sections": [
                     {
                         "title": {
-                            "text": "COMING SOON",
+                            "text": "David Seguin Consulting Inc.",
                             "color": "text-dark",
                             "styles": null,
                             "$$type": "TitleBlock"
@@ -43,7 +43,7 @@
                         ],
                         "media": {
                             "url": "/images/main-hero.svg",
-                            "altText": "COMING SOON preview",
+                            "altText": "David Seguin Consulting Inc. preview",
                             "elementId": "",
                             "styles": null,
                             "$$type": "ImageBlock"
