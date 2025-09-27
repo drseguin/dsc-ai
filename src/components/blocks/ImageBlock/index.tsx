@@ -36,7 +36,8 @@ export default function ImageBlock(props) {
                               borderColor: styles?.self?.borderColor ?? 'border-primary'
                           })
                         : undefined,
-                    styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
+                    styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined,
+                    styles?.self?.width ? (Array.isArray(styles.self.width) ? styles.self.width.join(' ') : styles.self.width) : undefined
                 )}
                 src={url}
                 alt={altText}

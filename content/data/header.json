@@ -1,10 +1,11 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "url": "/images/DSC-logo.png",
+        "altText": "DSC Logo",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": ["mr-3"],
+                "width": ["w-20"]
             }
         },
         "type": "ImageBlock"
