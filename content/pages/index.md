@@ -15,7 +15,7 @@ sections:
       philosophy drives our approach: solutions should be intelligent,
       intuitive, and capable of delivering measurable business impact. We see AI
       not as a standalone product, but as a catalyst for transformation when
-      paired with the right design and engineering.As part of the “Custom AI
+      paired with the right design and engineering. As part of the “Custom AI
       Application & Software Developers” archetype, the firm manages the entire
       journey—from robust architecture and intuitive design to secure deployment
       and ongoing support. By delivering complete, production-ready
