@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: COMING SOON
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: COMING SOON preview
       elementId: ''
       type: ImageBlock
     badge:

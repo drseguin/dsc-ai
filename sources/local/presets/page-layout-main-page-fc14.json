@@ -10,7 +10,7 @@
                 "sections": [
                     {
                         "title": {
-                            "text": "Unblock your team boost your time to production",
+                            "text": "COMING SOON",
                             "color": "text-dark",
                             "styles": null,
                             "$$type": "TitleBlock"
@@ -43,7 +43,7 @@
                         ],
                         "media": {
                             "url": "/images/main-hero.svg",
-                            "altText": "Unblock your team boost your time to production preview",
+                            "altText": "COMING SOON preview",
                             "elementId": "",
                             "styles": null,
                             "$$type": "ImageBlock"
