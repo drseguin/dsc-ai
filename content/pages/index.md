@@ -164,50 +164,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Your Partner in Tailored AI Excellence
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: ''
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
       text: |-
@@ -234,26 +190,6 @@ sections:
 
 
     actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
     styles:
@@ -262,6 +198,15 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+    media:
+      type: ImageBlock
+      url: >-
+        /images/generated_make_an_image_that_represents__2025-09-29T21-51-04-201Z.png
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - title:
       text: |-
         Custom
@@ -288,7 +233,8 @@ sections:
 
     actions: []
     media:
-      url: /images/hero2.svg
+      url: >-
+        /images/generated_generate_an_image_that_represe_2025-09-29T21-55-01-478Z.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
@@ -322,7 +268,8 @@ sections:
       cannot rely on public cloud infrastructure.
     actions: []
     media:
-      url: /images/hero3.svg
+      url: >-
+        /images/generated_Generate_an_image_with_NO_text_2025-09-29T21-56-33-615Z.png
       altText: Dope design preview
       type: ImageBlock
     colors: bg-light-fg-dark
